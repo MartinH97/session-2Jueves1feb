@@ -4,4 +4,4 @@
 3. git checkout nombreRama (se cambia de rama a nombreRama)
 4. git merge feature/header (actualiza de rama secundaria a rama main(principal)/ envia los datos a rama main)
 
-5. git branch -D feature/header ( eliminar rama dentro del feature/header)57:39
+5. git branch -D feature/header ( eliminar rama)
